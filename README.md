@@ -1,2 +1,2 @@
 # Apache-Spark-Assignments
-This is a repository about Apache Spark cluster exersies which includes basic statistics analysis of bigdata such as mean, median, std, corr btw features and data visualisations which include histogram, box plot and time series plot.
+This is a repository about Apache Spark cluster exersies which includes basic statistics analysis of bigdata such as mean, median, std, corr btw features and data visualisations which include histogram, box plot and time series plot. Then i have done some tasks with Machine Learning on Apache Spark such as Dimensionality reduction using PCA, Unsupervised Learing using Kmeans clustering, and Machine Learning classification pipelines and models. Finally wrapped it up with a ML Classification project.
